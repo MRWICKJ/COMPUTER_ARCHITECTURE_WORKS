@@ -42,6 +42,8 @@ Supported image formats: `.png`, `.jpeg`, `.jpg`. The script automatically pairs
 ## Setup
 
 ```bash
+git clone https://github.com/MRWICKJ/COMPUTER_ARCHITECTURE_WORKS.git
+cd COMPUTER_ARCHITECTURE_WORKS
 pip install -r requirements.txt
 ```
 
